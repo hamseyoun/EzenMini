@@ -1,4 +1,4 @@
-# EzenMini
+# MVC Board 
 CRUD가 가능한 게시판 사이트를 스프링 MVC패턴을 이용하여 구현
 
 ## Tool
